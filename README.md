@@ -47,6 +47,12 @@ Welcome to the Electric Car Recommendation System! This interactive tool helps y
 
 ### Results 📈
 
+![Input Image](EV/input.png)
+
+->>>>
+
+![Output Image](EV/output.png)
+
 
 
 
