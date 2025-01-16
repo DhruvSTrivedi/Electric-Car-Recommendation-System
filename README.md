@@ -1,14 +1,16 @@
----
-
 ## Electric Car Recommendation System 🚗⚡
 
 Welcome to the Electric Car Recommendation System! This interactive tool helps you find the best electric car models based on your preferences.
+
+---
 
 ### Features 🌟
 
 - **Interactive Dropdowns**: Easily specify your desired acceleration, top speed, driving range, and powertrain type.
 - **Dynamic Recommendations**: Get the top 2 car models that best match your criteria.
 - **Visual Comparisons**: See side-by-side bar plots comparing the attributes of the recommended cars.
+
+---
 
 ### How It Works 🛠️
 
@@ -23,6 +25,8 @@ Welcome to the Electric Car Recommendation System! This interactive tool helps y
 
 3. **Visual Insights**:
    Dive deeper with bar plots comparing the acceleration, top speed, and driving range of the recommended cars.
+
+---
 
 ### Installation & Usage 🚀
 
@@ -44,23 +48,19 @@ Welcome to the Electric Car Recommendation System! This interactive tool helps y
 
 4. Open the notebook and run the cells to interact with the recommendation system.
 
+---
 
 ### Results 📈
 
 ![Input Image](EV/input.png)
 
-->>>>
-
 ![Output Image](EV/output.png)
 
-
-
+---
 
 ### Contributions 🤝
 
 Feel free to fork this project, open a pull request, or report any issues you come across. All contributions are welcome!
 
-
-
-
 ---
+
